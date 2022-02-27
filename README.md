@@ -14,7 +14,7 @@ This weeks challenge is to take existing code and refactor it to make the existi
 - A README file with a description, screenshots, and a link to the live application
 
 ### URL of the deployed application:
-https://amadayasuki.github.io/horiseon/
+https://amadayasuki.github.io/Horiseon--Challenge-1/
 
 ### Screenshot of the deployed application:
 https://user-images.githubusercontent.com/96795462/155893123-f3d077b3-8aa0-46af-9bb7-47baca6d07ea.png
